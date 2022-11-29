@@ -5,8 +5,8 @@
             ColorRGB colorRGB1 = ColorRGB.Color_RGBM(5,0,-2);
             ColorRGB colorRGB2 = ColorRGB.Color_CMYM(5, 0, -2);
             ColorCMY colorCMY1 = ColorCMY.Color_CMYM(1, 2, 3);
-            ColorCMY colorCMY2 = ColorCMY.Color_CMYM(2,
-            Console.WriteLine(c);
+            ColorCMY colorCMY2 = ColorCMY.Color_CMYM(2, 3, -26);
+            Console.WriteLine(colorRGB1);
         }
     }
 }
